@@ -45,21 +45,35 @@
             </div>
         </div>
         </section>
+        <h1 class="choose">choose your plan:</h1>
         <section class="offer">
-        <div class="bronze-plan"><h2>bronze plan</h2>
+            
+        <div class="bronze-plan">
+            <a href="#" class="bronze-link">
+                <h2>bronze plan</h2>
+                <h3>FREE</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. P
-                    raesentium nam atque recusandae soluta, fugit laborum qui laboriosam error ipsam ratione
-                    doloremque mollitia exercitationem, omnis tempora commodi corporis, nobis repellendus enim!</p>
+                raesentium nam atque recusandae soluta, fugit laborum qui laboriosam error ipsam ratione
+                doloremque mollitia exercitationem, omnis tempora commodi corporis, nobis repellendus enim!</p>
+            </a>
+        </div>
+        <div class="silver-plan">
+            <a href="#" class="silver-link">
+                <h2>silver plan</h2>
+                <h3>10 EUR</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. P
+                raesentium nam atque recusandae soluta, fugit laborum qui laboriosam error ipsam ratione
+                doloremque mollitia exercitationem, omnis tempora commodi corporis, nobis repellendus enim!</p>
+            </a>
             </div>
-            <div class="silver-plan"><h2>silver plan</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. P
+            <div class="golden-plan">
+                <a href="#" class="golden-link">
+                    <h2>golden plan</h2>
+                    <h3>20 EUR</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. P
                     raesentium nam atque recusandae soluta, fugit laborum qui laboriosam error ipsam ratione
                     doloremque mollitia exercitationem, omnis tempora commodi corporis, nobis repellendus enim!</p>
-            </div>
-            <div class="golden-plan"><h2>golden plan</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. P
-                    raesentium nam atque recusandae soluta, fugit laborum qui laboriosam error ipsam ratione
-                    doloremque mollitia exercitationem, omnis tempora commodi corporis, nobis repellendus enim!</p>
+                </a>
             </div>
         </section>
         <footer class="footer">
